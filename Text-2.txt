@@ -1,3 +1,4 @@
 2.1. Adding contents manually
 From the GitHub tool we can add or edit the files in our projet (although this is not the recommended way). For instance, if we have created the project with a README.md file, we can click on this file and open it. Then, we can click on the pencil tool to edit the contents.
 
+Commit for step 3
