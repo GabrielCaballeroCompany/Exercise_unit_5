@@ -1,0 +1,6 @@
+2. Repositories
+A VCS is normally used for storing projects that can be developed by many people. Either if we develop the project on our own or with other people, we may need to have a remote copy of it, so that we can restore it if there are any problems with our local copy. To do this, we need to have a repository where our remote copy will be stored.
+
+We can create our repository in GitHub, Bitbucket or other platforms. In this case, we are going to use GitHub, which is the most popular one. Besides, it lets us create both public and private repositories. Public repositories can be seen by anyone, but only allowed people can make changes to both public and private repositories.
+
+If we want to create a GitHub repository (as long as we have already signed up), we must click on the New button on the upper left corner (or through the + link in the upper right, choosing New repository then), and specify the repository name and some of its general settings: if we want it to be public or private, and if we want to add an initial README file (recommended).
